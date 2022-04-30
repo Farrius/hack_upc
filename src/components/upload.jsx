@@ -10,7 +10,7 @@ export const Upload = () => {
     return (
         <div className="upload_btn">
             <input type="file" onChange={handleChange} />
-            <img src={file} className="upload_imagen"/>
+            <img src={file} alt="imagen enviada" className="upload_imagen"/>
         </div>
   
     );
