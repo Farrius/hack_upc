@@ -15,9 +15,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
-          <a className='navbar-brand page-scroll' href='#page-top'>
-            React Landing Page
-          </a>{' '}
+            <img src="../../img/logoBB.png" alt="no carga" className="logo"/>
         </div>
 
         <div
@@ -26,13 +24,8 @@ export const Navigation = (props) => {
         >
           <ul className='nav navbar-nav navbar-right'>
             <li>
-              <a href='#features' className='page-scroll'>
-                Features
-              </a>
-            </li>
-            <li>
-              <a href='#portfolio' className='page-scroll'>
-                Gallery
+              <a href='#header' className='page-scroll'>
+                Home
               </a>
             </li>
           </ul>

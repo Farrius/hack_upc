@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "rest.ai",
-    "paragraph": "Bed and breakfast with the best possible price"
+    "title": "B&B",
+    "paragraph": "Decide the price for your bed and breakfast"
   },
   "Gallery": [
     {
@@ -53,7 +53,7 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
+      "title": "ASDF",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
