@@ -268,3 +268,8 @@ header .intro-text {
   max-width: 100rem;
   max-height: 100rem;
 }
+
+.precio {
+  font-size: 4rem;
+  color: black;
+}
